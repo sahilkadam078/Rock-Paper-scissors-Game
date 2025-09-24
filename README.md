@@ -14,6 +14,10 @@ This is a web implementation of the classic game Rock-Paper-Scissors. The user p
 - Score tracking  
 - Clear result feedback  
 
-## Demo
+## Live Demo
 
-/assets/homepage
+https://sahilkadam078.github.io/Rock-Paper-scissors-Game/
+
+## Screenshot
+
+![Game Screenshot](/assets/homepage.png)
